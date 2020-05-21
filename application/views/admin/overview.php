@@ -35,7 +35,7 @@
                     <!-- Add the bg color to the header using any of the bg-* classes -->
                     <div class="widget-user-header bg-primary">
                         <h3 class="widget-user-username">Selamat Datang</h3>
-                        <h5 class="widget-user-desc">Ke Dalam Tendou CMS</h5>
+                        <h5 class="widget-user-desc">Ke Dalam TENDOU CMS</h5>
                     </div>
                     <div class="widget-user-image">
                         <img class="" src="<?php echo base_url() . 'dist/img/undip.png' ?>" alt="User Avatar" style="border: 0px ">
