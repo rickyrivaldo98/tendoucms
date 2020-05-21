@@ -3,7 +3,7 @@
             <!-- Brand Logo -->
             <a href="#" class="brand-link navbar-primary">
                 <img src="<?php echo base_url("dist/img/undip.png") ?>" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light" style="color: white;">KPRI UNDIP</span>
+                <span class="brand-text font-weight-light" style="color: white;">TENDOU CMS</span>
             </a>
 
             <!-- Sidebar -->
